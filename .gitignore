@@ -13,6 +13,7 @@ __pycache__/
 venv/
 env/
 *.egg-info/
+/run.bat
 
 # Editor / OS
 .vscode/
